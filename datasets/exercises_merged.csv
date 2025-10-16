@@ -1,0 +1,502 @@
+exercise_name,primary_muscle,secondary_muscle,body_part,type,equipment,difficulty
+Push Up,Chest,Triceps,Upper Body,Strength,Bodyweight,Beginner
+Squat,Quadriceps,Glutes,Lower Body,Strength,Barbell,Intermediate
+Deadlift,Back,Hamstrings,Full Body,Strength,Barbell,Advanced
+Lunges,Quadriceps,Glutes,Lower Body,Strength,Bodyweight,Beginner
+Bicep Curl,Biceps,Forearms,Upper Body,Strength,Dumbbell,Beginner
+Tricep Dips,Triceps,Shoulders,Upper Body,Strength,Bodyweight,Intermediate
+Plank,Core,,Core,Stability,Bodyweight,Beginner
+Bench Press,Chest,Triceps,Upper Body,Strength,Barbell,Advanced
+Shoulder Press,Shoulders,Triceps,Upper Body,Strength,Dumbbell,Intermediate
+Calf Raise,Calves,,Lower Body,Strength,Bodyweight,Beginner
+Leg Press,Quadriceps,Hamstrings,Lower Body,Strength,Machine,Intermediate
+Exercise 1,Calves,Forearms,Full Body,Strength,Barbell,Intermediate
+Exercise 2,Chest,Obliques,Lower Body,Endurance,Barbell,Intermediate
+Exercise 3,Glutes,Traps,Upper Body,Stability,Resistance Band,Advanced
+Exercise 4,Chest,Lats,Lower Body,Strength,Dumbbell,Advanced
+Exercise 5,Biceps,Hip Flexors,Lower Body,Flexibility,Bodyweight,Beginner
+Exercise 6,Shoulders,Lower Back,Full Body,Flexibility,Barbell,Advanced
+Exercise 7,Core,,Lower Body,Flexibility,Resistance Band,Intermediate
+Exercise 8,Triceps,Hip Flexors,Core,Endurance,Machine,Intermediate
+Exercise 9,Triceps,Forearms,Core,Flexibility,Resistance Band,Beginner
+Exercise 10,Hamstrings,Lats,Upper Body,Flexibility,Dumbbell,Advanced
+Exercise 11,Biceps,Forearms,Lower Body,Endurance,Bodyweight,Intermediate
+Exercise 12,Back,Hip Flexors,Full Body,Flexibility,Bodyweight,Intermediate
+Exercise 13,Back,Abs,Lower Body,Strength,Dumbbell,Intermediate
+Exercise 14,Back,Obliques,Upper Body,Endurance,Bodyweight,Beginner
+Exercise 15,Hamstrings,Forearms,Lower Body,Strength,Resistance Band,Advanced
+Exercise 16,Chest,Lats,Lower Body,Endurance,Resistance Band,Advanced
+Exercise 17,Core,Traps,Core,Flexibility,Bodyweight,Intermediate
+Exercise 18,Shoulders,Neck,Full Body,Strength,Dumbbell,Intermediate
+Exercise 19,Quadriceps,Obliques,Core,Endurance,Resistance Band,Advanced
+Exercise 20,Triceps,Neck,Full Body,Endurance,Resistance Band,Intermediate
+Exercise 21,Quadriceps,Obliques,Upper Body,Flexibility,Machine,Beginner
+Exercise 22,Back,Hip Flexors,Core,Endurance,Dumbbell,Advanced
+Exercise 23,Triceps,Obliques,Upper Body,Stability,Bodyweight,Beginner
+Exercise 24,Glutes,,Upper Body,Flexibility,Bodyweight,Beginner
+Exercise 25,Quadriceps,,Lower Body,Flexibility,Kettlebell,Advanced
+Exercise 26,Core,Forearms,Core,Endurance,Kettlebell,Beginner
+Exercise 27,Calves,Traps,Upper Body,Flexibility,Kettlebell,Advanced
+Exercise 28,Triceps,,Core,Strength,Resistance Band,Intermediate
+Exercise 29,Shoulders,Traps,Upper Body,Stability,Bodyweight,Beginner
+Exercise 30,Core,Obliques,Lower Body,Endurance,Resistance Band,Intermediate
+Exercise 31,Triceps,,Core,Stability,Bodyweight,Advanced
+Exercise 32,Hamstrings,Forearms,Lower Body,Stability,Kettlebell,Beginner
+Exercise 33,Core,Lats,Full Body,Stability,Dumbbell,Advanced
+Exercise 34,Chest,Lats,Lower Body,Endurance,Resistance Band,Intermediate
+Exercise 35,Quadriceps,Traps,Upper Body,Stability,Resistance Band,Beginner
+Exercise 36,Shoulders,Hip Flexors,Upper Body,Strength,Dumbbell,Advanced
+Exercise 37,Calves,Traps,Upper Body,Endurance,Bodyweight,Advanced
+Exercise 38,Core,Forearms,Upper Body,Stability,Barbell,Advanced
+Exercise 39,Hamstrings,Neck,Full Body,Strength,Machine,Intermediate
+Exercise 40,Back,,Core,Endurance,Kettlebell,Advanced
+Exercise 41,Hamstrings,Abs,Full Body,Strength,Bodyweight,Advanced
+Exercise 42,Triceps,Lats,Full Body,Strength,Resistance Band,Advanced
+Exercise 43,Triceps,Adductors,Lower Body,Flexibility,Kettlebell,Advanced
+Exercise 44,Chest,Abs,Full Body,Flexibility,Barbell,Intermediate
+Exercise 45,Chest,,Lower Body,Strength,Bodyweight,Advanced
+Exercise 46,Calves,Adductors,Core,Endurance,Machine,Intermediate
+Exercise 47,Chest,,Full Body,Strength,Dumbbell,Intermediate
+Exercise 48,Back,Obliques,Lower Body,Strength,Bodyweight,Advanced
+Exercise 49,Quadriceps,Lower Back,Full Body,Flexibility,Machine,Intermediate
+Exercise 50,Shoulders,Obliques,Lower Body,Stability,Machine,Beginner
+Exercise 51,Hamstrings,Adductors,Full Body,Flexibility,Barbell,Advanced
+Exercise 52,Quadriceps,Hip Flexors,Lower Body,Strength,Kettlebell,Advanced
+Exercise 53,Triceps,Lower Back,Full Body,Flexibility,Kettlebell,Intermediate
+Exercise 54,Biceps,Traps,Core,Strength,Machine,Beginner
+Exercise 55,Quadriceps,Lats,Upper Body,Strength,Barbell,Beginner
+Exercise 56,Hamstrings,Neck,Upper Body,Stability,Kettlebell,Advanced
+Exercise 57,Triceps,Abs,Core,Flexibility,Dumbbell,Beginner
+Exercise 58,Calves,Abs,Upper Body,Flexibility,Machine,Advanced
+Exercise 59,Shoulders,Obliques,Core,Flexibility,Machine,Intermediate
+Exercise 60,Back,Lats,Upper Body,Stability,Bodyweight,Beginner
+Exercise 61,Hamstrings,,Full Body,Flexibility,Dumbbell,Beginner
+Exercise 62,Quadriceps,Lats,Full Body,Strength,Resistance Band,Intermediate
+Exercise 63,Shoulders,,Lower Body,Strength,Bodyweight,Advanced
+Exercise 64,Calves,Neck,Upper Body,Flexibility,Machine,Beginner
+Exercise 65,Back,Lower Back,Core,Flexibility,Bodyweight,Intermediate
+Exercise 66,Hamstrings,Forearms,Core,Stability,Resistance Band,Advanced
+Exercise 67,Triceps,Forearms,Lower Body,Stability,Kettlebell,Beginner
+Exercise 68,Biceps,Hip Flexors,Upper Body,Strength,Resistance Band,Advanced
+Exercise 69,Shoulders,Lower Back,Lower Body,Endurance,Barbell,Advanced
+Exercise 70,Quadriceps,Forearms,Lower Body,Endurance,Barbell,Beginner
+Exercise 71,Core,Hip Flexors,Full Body,Stability,Resistance Band,Beginner
+Exercise 72,Chest,Traps,Core,Flexibility,Dumbbell,Intermediate
+Exercise 73,Triceps,Obliques,Core,Strength,Bodyweight,Intermediate
+Exercise 74,Glutes,Lower Back,Full Body,Stability,Kettlebell,Advanced
+Exercise 75,Quadriceps,Obliques,Lower Body,Flexibility,Resistance Band,Beginner
+Exercise 76,Calves,Traps,Full Body,Endurance,Bodyweight,Beginner
+Exercise 77,Hamstrings,Traps,Lower Body,Strength,Bodyweight,Advanced
+Exercise 78,Chest,Lats,Upper Body,Endurance,Bodyweight,Beginner
+Exercise 79,Biceps,Lower Back,Upper Body,Stability,Kettlebell,Intermediate
+Exercise 80,Quadriceps,Adductors,Lower Body,Endurance,Bodyweight,Beginner
+Exercise 81,Chest,Abs,Full Body,Stability,Barbell,Advanced
+Exercise 82,Glutes,,Upper Body,Endurance,Barbell,Beginner
+Exercise 83,Glutes,Forearms,Full Body,Stability,Machine,Advanced
+Exercise 84,Shoulders,Hip Flexors,Lower Body,Endurance,Resistance Band,Beginner
+Exercise 85,Glutes,Adductors,Core,Stability,Kettlebell,Intermediate
+Exercise 86,Shoulders,Abs,Upper Body,Endurance,Barbell,Beginner
+Exercise 87,Hamstrings,Adductors,Core,Endurance,Machine,Beginner
+Exercise 88,Shoulders,Traps,Core,Strength,Bodyweight,Intermediate
+Exercise 89,Glutes,Lower Back,Core,Flexibility,Bodyweight,Beginner
+Exercise 90,Quadriceps,Obliques,Full Body,Flexibility,Resistance Band,Beginner
+Exercise 91,Calves,,Lower Body,Stability,Kettlebell,Advanced
+Exercise 92,Quadriceps,Lower Back,Core,Endurance,Barbell,Intermediate
+Exercise 93,Triceps,Adductors,Lower Body,Stability,Bodyweight,Advanced
+Exercise 94,Quadriceps,,Upper Body,Strength,Dumbbell,Advanced
+Exercise 95,Triceps,Traps,Full Body,Endurance,Kettlebell,Advanced
+Exercise 96,Triceps,Traps,Upper Body,Endurance,Kettlebell,Intermediate
+Exercise 97,Triceps,Obliques,Upper Body,Stability,Barbell,Advanced
+Exercise 98,Core,Hip Flexors,Upper Body,Strength,Barbell,Advanced
+Exercise 99,Shoulders,Neck,Lower Body,Stability,Resistance Band,Intermediate
+Exercise 100,Hamstrings,Neck,Full Body,Strength,Bodyweight,Intermediate
+Exercise 101,Glutes,Lower Back,Upper Body,Flexibility,Machine,Beginner
+Exercise 102,Shoulders,Obliques,Full Body,Strength,Dumbbell,Intermediate
+Exercise 103,Hamstrings,Abs,Core,Strength,Dumbbell,Advanced
+Exercise 104,Shoulders,Forearms,Full Body,Stability,Machine,Beginner
+Exercise 105,Hamstrings,Hip Flexors,Core,Strength,Resistance Band,Beginner
+Exercise 106,Hamstrings,Forearms,Core,Flexibility,Resistance Band,Beginner
+Exercise 107,Quadriceps,Neck,Full Body,Flexibility,Resistance Band,Advanced
+Exercise 108,Glutes,Hip Flexors,Upper Body,Endurance,Machine,Beginner
+Exercise 109,Chest,Lower Back,Core,Stability,Dumbbell,Intermediate
+Exercise 110,Calves,Lower Back,Upper Body,Strength,Barbell,Advanced
+Exercise 111,Chest,Hip Flexors,Lower Body,Endurance,Machine,Advanced
+Exercise 112,Core,Adductors,Upper Body,Strength,Machine,Beginner
+Exercise 113,Glutes,,Core,Flexibility,Barbell,Advanced
+Exercise 114,Quadriceps,Obliques,Upper Body,Stability,Barbell,Advanced
+Exercise 115,Biceps,Traps,Full Body,Endurance,Machine,Intermediate
+Exercise 116,Glutes,Adductors,Core,Endurance,Barbell,Beginner
+Exercise 117,Core,Neck,Lower Body,Stability,Bodyweight,Advanced
+Exercise 118,Calves,Lats,Full Body,Flexibility,Dumbbell,Intermediate
+Exercise 119,Calves,Forearms,Lower Body,Strength,Machine,Intermediate
+Exercise 120,Core,,Core,Stability,Dumbbell,Beginner
+Exercise 121,Shoulders,Obliques,Full Body,Flexibility,Resistance Band,Advanced
+Exercise 122,Hamstrings,Neck,Lower Body,Stability,Kettlebell,Beginner
+Exercise 123,Calves,Forearms,Lower Body,Strength,Resistance Band,Intermediate
+Exercise 124,Calves,Adductors,Lower Body,Endurance,Barbell,Intermediate
+Exercise 125,Chest,Neck,Lower Body,Strength,Dumbbell,Beginner
+Exercise 126,Core,Traps,Core,Strength,Machine,Intermediate
+Exercise 127,Chest,Hip Flexors,Full Body,Endurance,Bodyweight,Beginner
+Exercise 128,Triceps,Lats,Lower Body,Stability,Machine,Beginner
+Exercise 129,Triceps,,Core,Strength,Bodyweight,Beginner
+Exercise 130,Hamstrings,Hip Flexors,Core,Endurance,Barbell,Beginner
+Exercise 131,Hamstrings,Adductors,Full Body,Endurance,Kettlebell,Advanced
+Exercise 132,Calves,,Core,Stability,Kettlebell,Beginner
+Exercise 133,Quadriceps,,Full Body,Strength,Resistance Band,Beginner
+Exercise 134,Quadriceps,Neck,Lower Body,Flexibility,Resistance Band,Beginner
+Exercise 135,Chest,Abs,Upper Body,Strength,Kettlebell,Advanced
+Exercise 136,Core,Abs,Lower Body,Endurance,Kettlebell,Intermediate
+Exercise 137,Triceps,Adductors,Upper Body,Stability,Kettlebell,Advanced
+Exercise 138,Quadriceps,Hip Flexors,Upper Body,Endurance,Barbell,Beginner
+Exercise 139,Back,Forearms,Core,Strength,Dumbbell,Beginner
+Exercise 140,Back,Obliques,Upper Body,Flexibility,Kettlebell,Beginner
+Exercise 141,Hamstrings,Neck,Upper Body,Endurance,Dumbbell,Advanced
+Exercise 142,Glutes,Abs,Core,Endurance,Bodyweight,Advanced
+Exercise 143,Biceps,,Lower Body,Strength,Machine,Intermediate
+Exercise 144,Core,Neck,Core,Endurance,Barbell,Intermediate
+Exercise 145,Quadriceps,Forearms,Full Body,Strength,Resistance Band,Advanced
+Exercise 146,Shoulders,Traps,Core,Flexibility,Resistance Band,Beginner
+Exercise 147,Hamstrings,Traps,Core,Strength,Resistance Band,Advanced
+Exercise 148,Calves,Traps,Full Body,Flexibility,Resistance Band,Beginner
+Exercise 149,Triceps,Traps,Full Body,Strength,Kettlebell,Advanced
+Exercise 150,Core,Lats,Upper Body,Strength,Machine,Advanced
+Exercise 151,Glutes,Adductors,Core,Stability,Barbell,Beginner
+Exercise 152,Back,,Core,Flexibility,Barbell,Advanced
+Exercise 153,Shoulders,Adductors,Upper Body,Strength,Kettlebell,Advanced
+Exercise 154,Hamstrings,Abs,Core,Stability,Bodyweight,Beginner
+Exercise 155,Biceps,Hip Flexors,Full Body,Flexibility,Bodyweight,Intermediate
+Exercise 156,Hamstrings,Adductors,Upper Body,Flexibility,Barbell,Beginner
+Exercise 157,Hamstrings,Traps,Core,Strength,Resistance Band,Intermediate
+Exercise 158,Calves,Traps,Lower Body,Stability,Bodyweight,Intermediate
+Exercise 159,Back,Traps,Upper Body,Flexibility,Kettlebell,Intermediate
+Exercise 160,Biceps,,Lower Body,Strength,Dumbbell,Advanced
+Exercise 161,Quadriceps,Forearms,Upper Body,Strength,Dumbbell,Beginner
+Exercise 162,Calves,Traps,Lower Body,Flexibility,Machine,Beginner
+Exercise 163,Quadriceps,Traps,Core,Endurance,Barbell,Intermediate
+Exercise 164,Shoulders,Hip Flexors,Full Body,Flexibility,Resistance Band,Beginner
+Exercise 165,Core,Lower Back,Full Body,Endurance,Machine,Beginner
+Exercise 166,Triceps,Forearms,Core,Flexibility,Dumbbell,Advanced
+Exercise 167,Triceps,Traps,Lower Body,Stability,Barbell,Intermediate
+Exercise 168,Hamstrings,Lats,Core,Strength,Dumbbell,Intermediate
+Exercise 169,Shoulders,Lats,Lower Body,Endurance,Bodyweight,Beginner
+Exercise 170,Chest,Abs,Full Body,Endurance,Kettlebell,Beginner
+Exercise 171,Hamstrings,Neck,Upper Body,Flexibility,Dumbbell,Advanced
+Exercise 172,Shoulders,,Full Body,Stability,Kettlebell,Beginner
+Exercise 173,Hamstrings,Forearms,Lower Body,Stability,Barbell,Advanced
+Exercise 174,Back,Lower Back,Core,Flexibility,Dumbbell,Beginner
+Exercise 175,Shoulders,,Core,Flexibility,Resistance Band,Advanced
+Exercise 176,Shoulders,Adductors,Full Body,Flexibility,Machine,Beginner
+Exercise 177,Glutes,Abs,Core,Stability,Machine,Advanced
+Exercise 178,Biceps,,Upper Body,Flexibility,Dumbbell,Advanced
+Exercise 179,Quadriceps,Neck,Lower Body,Endurance,Bodyweight,Intermediate
+Exercise 180,Glutes,Hip Flexors,Lower Body,Flexibility,Kettlebell,Advanced
+Exercise 181,Quadriceps,Traps,Full Body,Endurance,Resistance Band,Beginner
+Exercise 182,Quadriceps,Obliques,Lower Body,Flexibility,Bodyweight,Advanced
+Exercise 183,Triceps,Lats,Upper Body,Flexibility,Barbell,Intermediate
+Exercise 184,Biceps,Adductors,Lower Body,Strength,Dumbbell,Beginner
+Exercise 185,Back,Forearms,Lower Body,Stability,Resistance Band,Beginner
+Exercise 186,Calves,Adductors,Full Body,Endurance,Barbell,Advanced
+Exercise 187,Chest,Adductors,Core,Flexibility,Dumbbell,Beginner
+Exercise 188,Glutes,Abs,Core,Flexibility,Bodyweight,Beginner
+Exercise 189,Quadriceps,Neck,Upper Body,Strength,Bodyweight,Intermediate
+Exercise 190,Shoulders,Hip Flexors,Upper Body,Stability,Resistance Band,Beginner
+Exercise 191,Glutes,Neck,Core,Flexibility,Machine,Beginner
+Exercise 192,Chest,Traps,Full Body,Flexibility,Dumbbell,Intermediate
+Exercise 193,Chest,Traps,Upper Body,Flexibility,Dumbbell,Advanced
+Exercise 194,Calves,Obliques,Upper Body,Endurance,Dumbbell,Intermediate
+Exercise 195,Back,Lower Back,Upper Body,Flexibility,Kettlebell,Advanced
+Exercise 196,Glutes,Traps,Upper Body,Flexibility,Kettlebell,Advanced
+Exercise 197,Calves,Traps,Lower Body,Stability,Bodyweight,Advanced
+Exercise 198,Core,Forearms,Upper Body,Flexibility,Barbell,Beginner
+Exercise 199,Calves,Hip Flexors,Lower Body,Strength,Machine,Advanced
+Exercise 200,Quadriceps,Neck,Lower Body,Strength,Dumbbell,Intermediate
+Exercise 201,Glutes,,Core,Stability,Kettlebell,Advanced
+Exercise 202,Glutes,Abs,Lower Body,Flexibility,Barbell,Intermediate
+Exercise 203,Quadriceps,Adductors,Lower Body,Stability,Machine,Beginner
+Exercise 204,Glutes,Lats,Core,Flexibility,Machine,Advanced
+Exercise 205,Shoulders,Obliques,Upper Body,Strength,Kettlebell,Intermediate
+Exercise 206,Core,Neck,Lower Body,Flexibility,Bodyweight,Intermediate
+Exercise 207,Hamstrings,Adductors,Full Body,Endurance,Dumbbell,Intermediate
+Exercise 208,Calves,Forearms,Core,Stability,Dumbbell,Intermediate
+Exercise 209,Quadriceps,Lats,Core,Endurance,Barbell,Intermediate
+Exercise 210,Quadriceps,Traps,Core,Endurance,Dumbbell,Advanced
+Exercise 211,Hamstrings,Traps,Lower Body,Stability,Resistance Band,Advanced
+Exercise 212,Glutes,Traps,Core,Endurance,Resistance Band,Beginner
+Exercise 213,Hamstrings,Hip Flexors,Core,Flexibility,Barbell,Intermediate
+Exercise 214,Back,Lower Back,Upper Body,Strength,Barbell,Beginner
+Exercise 215,Triceps,Traps,Core,Endurance,Dumbbell,Advanced
+Exercise 216,Chest,,Lower Body,Endurance,Kettlebell,Advanced
+Exercise 217,Triceps,Hip Flexors,Upper Body,Endurance,Bodyweight,Intermediate
+Exercise 218,Biceps,Forearms,Core,Flexibility,Resistance Band,Beginner
+Exercise 219,Chest,Neck,Core,Endurance,Machine,Intermediate
+Exercise 220,Quadriceps,Traps,Lower Body,Endurance,Machine,Advanced
+Exercise 221,Shoulders,Hip Flexors,Full Body,Flexibility,Dumbbell,Advanced
+Exercise 222,Triceps,,Core,Strength,Bodyweight,Advanced
+Exercise 223,Chest,Obliques,Core,Flexibility,Dumbbell,Advanced
+Exercise 224,Back,Forearms,Full Body,Endurance,Machine,Beginner
+Exercise 225,Glutes,Neck,Lower Body,Endurance,Barbell,Intermediate
+Exercise 226,Biceps,Traps,Full Body,Flexibility,Kettlebell,Beginner
+Exercise 227,Triceps,Lower Back,Lower Body,Strength,Bodyweight,Intermediate
+Exercise 228,Quadriceps,Obliques,Lower Body,Strength,Resistance Band,Intermediate
+Exercise 229,Quadriceps,Adductors,Core,Flexibility,Resistance Band,Beginner
+Exercise 230,Quadriceps,Abs,Upper Body,Strength,Machine,Intermediate
+Exercise 231,Triceps,Hip Flexors,Lower Body,Flexibility,Barbell,Intermediate
+Exercise 232,Shoulders,Abs,Lower Body,Stability,Dumbbell,Advanced
+Exercise 233,Calves,Abs,Lower Body,Stability,Kettlebell,Intermediate
+Exercise 234,Quadriceps,Hip Flexors,Full Body,Flexibility,Machine,Beginner
+Exercise 235,Back,Forearms,Core,Endurance,Resistance Band,Beginner
+Exercise 236,Hamstrings,Obliques,Full Body,Flexibility,Kettlebell,Advanced
+Exercise 237,Core,Hip Flexors,Upper Body,Strength,Kettlebell,Advanced
+Exercise 238,Glutes,Neck,Upper Body,Stability,Dumbbell,Advanced
+Exercise 239,Shoulders,Abs,Full Body,Flexibility,Kettlebell,Advanced
+Exercise 240,Biceps,Adductors,Upper Body,Stability,Machine,Intermediate
+Exercise 241,Glutes,Adductors,Full Body,Stability,Dumbbell,Beginner
+Exercise 242,Glutes,Neck,Upper Body,Strength,Dumbbell,Intermediate
+Exercise 243,Hamstrings,Traps,Core,Stability,Machine,Beginner
+Exercise 244,Chest,Traps,Upper Body,Endurance,Dumbbell,Advanced
+Exercise 245,Biceps,Lower Back,Lower Body,Flexibility,Bodyweight,Intermediate
+Exercise 246,Core,Hip Flexors,Full Body,Strength,Dumbbell,Advanced
+Exercise 247,Glutes,Obliques,Core,Flexibility,Machine,Beginner
+Exercise 248,Glutes,Traps,Upper Body,Stability,Barbell,Advanced
+Exercise 249,Chest,Hip Flexors,Full Body,Strength,Resistance Band,Intermediate
+Exercise 250,Hamstrings,Neck,Upper Body,Endurance,Dumbbell,Advanced
+Exercise 251,Biceps,Hip Flexors,Lower Body,Strength,Machine,Advanced
+Exercise 252,Chest,Forearms,Upper Body,Endurance,Barbell,Intermediate
+Exercise 253,Shoulders,Lats,Core,Flexibility,Resistance Band,Beginner
+Exercise 254,Calves,Adductors,Core,Flexibility,Bodyweight,Beginner
+Exercise 255,Calves,Neck,Core,Stability,Bodyweight,Advanced
+Exercise 256,Calves,Hip Flexors,Full Body,Strength,Kettlebell,Intermediate
+Exercise 257,Chest,Hip Flexors,Lower Body,Strength,Barbell,Beginner
+Exercise 258,Core,Obliques,Full Body,Flexibility,Dumbbell,Advanced
+Exercise 259,Chest,Forearms,Lower Body,Stability,Bodyweight,Intermediate
+Exercise 260,Core,Lower Back,Upper Body,Stability,Machine,Advanced
+Exercise 261,Chest,Traps,Core,Strength,Machine,Beginner
+Exercise 262,Chest,Hip Flexors,Upper Body,Endurance,Barbell,Intermediate
+Exercise 263,Chest,Hip Flexors,Lower Body,Endurance,Machine,Advanced
+Exercise 264,Quadriceps,Obliques,Lower Body,Flexibility,Barbell,Beginner
+Exercise 265,Shoulders,Abs,Lower Body,Strength,Resistance Band,Intermediate
+Exercise 266,Quadriceps,Adductors,Upper Body,Flexibility,Resistance Band,Advanced
+Exercise 267,Triceps,Adductors,Lower Body,Endurance,Barbell,Advanced
+Exercise 268,Calves,Obliques,Upper Body,Endurance,Resistance Band,Advanced
+Exercise 269,Hamstrings,Traps,Upper Body,Endurance,Dumbbell,Intermediate
+Exercise 270,Glutes,Abs,Full Body,Strength,Kettlebell,Beginner
+Exercise 271,Biceps,Lower Back,Core,Endurance,Bodyweight,Advanced
+Exercise 272,Chest,Adductors,Upper Body,Flexibility,Machine,Beginner
+Exercise 273,Glutes,Neck,Full Body,Flexibility,Kettlebell,Intermediate
+Exercise 274,Chest,Forearms,Upper Body,Flexibility,Machine,Advanced
+Exercise 275,Chest,Hip Flexors,Core,Strength,Kettlebell,Advanced
+Exercise 276,Quadriceps,Obliques,Core,Endurance,Kettlebell,Intermediate
+Exercise 277,Chest,Lats,Full Body,Stability,Bodyweight,Intermediate
+Exercise 278,Back,Abs,Lower Body,Strength,Kettlebell,Intermediate
+Exercise 279,Biceps,Abs,Lower Body,Flexibility,Kettlebell,Advanced
+Exercise 280,Shoulders,Traps,Lower Body,Strength,Kettlebell,Intermediate
+Exercise 281,Glutes,Lower Back,Lower Body,Strength,Dumbbell,Beginner
+Exercise 282,Hamstrings,Adductors,Full Body,Flexibility,Barbell,Advanced
+Exercise 283,Calves,Forearms,Lower Body,Flexibility,Resistance Band,Beginner
+Exercise 284,Biceps,Lower Back,Core,Stability,Machine,Beginner
+Exercise 285,Triceps,Adductors,Core,Stability,Bodyweight,Beginner
+Exercise 286,Chest,Neck,Full Body,Flexibility,Bodyweight,Advanced
+Exercise 287,Triceps,Traps,Upper Body,Flexibility,Bodyweight,Advanced
+Exercise 288,Calves,Neck,Upper Body,Endurance,Kettlebell,Advanced
+Exercise 289,Calves,,Upper Body,Stability,Machine,Advanced
+Exercise 290,Calves,Abs,Core,Stability,Barbell,Beginner
+Exercise 291,Quadriceps,Adductors,Core,Endurance,Bodyweight,Intermediate
+Exercise 292,Biceps,Obliques,Lower Body,Stability,Machine,Beginner
+Exercise 293,Glutes,Forearms,Lower Body,Endurance,Resistance Band,Advanced
+Exercise 294,Quadriceps,Neck,Core,Stability,Bodyweight,Intermediate
+Exercise 295,Triceps,Neck,Upper Body,Endurance,Machine,Advanced
+Exercise 296,Calves,Adductors,Full Body,Endurance,Dumbbell,Advanced
+Exercise 297,Biceps,Obliques,Full Body,Strength,Bodyweight,Advanced
+Exercise 298,Glutes,Adductors,Core,Flexibility,Machine,Advanced
+Exercise 299,Shoulders,Lats,Upper Body,Stability,Machine,Intermediate
+Exercise 300,Glutes,Forearms,Full Body,Strength,Dumbbell,Beginner
+Exercise 301,Chest,Forearms,Core,Stability,Bodyweight,Beginner
+Exercise 302,Back,Lower Back,Upper Body,Strength,Bodyweight,Intermediate
+Exercise 303,Quadriceps,Traps,Upper Body,Endurance,Kettlebell,Intermediate
+Exercise 304,Hamstrings,Hip Flexors,Upper Body,Strength,Barbell,Intermediate
+Exercise 305,Biceps,,Full Body,Strength,Bodyweight,Beginner
+Exercise 306,Calves,Forearms,Full Body,Flexibility,Bodyweight,Intermediate
+Exercise 307,Core,Abs,Full Body,Flexibility,Dumbbell,Intermediate
+Exercise 308,Biceps,Lats,Full Body,Flexibility,Machine,Advanced
+Exercise 309,Hamstrings,Neck,Full Body,Strength,Kettlebell,Advanced
+Exercise 310,Back,Lower Back,Core,Flexibility,Resistance Band,Beginner
+Exercise 311,Biceps,Lower Back,Upper Body,Stability,Machine,Beginner
+Exercise 312,Glutes,Neck,Core,Stability,Kettlebell,Intermediate
+Exercise 313,Chest,Abs,Core,Flexibility,Kettlebell,Intermediate
+Exercise 314,Biceps,Neck,Full Body,Strength,Machine,Beginner
+Exercise 315,Calves,Neck,Full Body,Endurance,Bodyweight,Intermediate
+Exercise 316,Biceps,Traps,Full Body,Endurance,Resistance Band,Beginner
+Exercise 317,Biceps,Traps,Lower Body,Strength,Kettlebell,Intermediate
+Exercise 318,Quadriceps,Lower Back,Lower Body,Endurance,Bodyweight,Beginner
+Exercise 319,Back,Abs,Core,Flexibility,Machine,Advanced
+Exercise 320,Hamstrings,,Core,Stability,Barbell,Beginner
+Exercise 321,Quadriceps,Obliques,Lower Body,Stability,Barbell,Intermediate
+Exercise 322,Triceps,Abs,Upper Body,Flexibility,Barbell,Beginner
+Exercise 323,Hamstrings,Adductors,Core,Flexibility,Resistance Band,Advanced
+Exercise 324,Core,Lats,Full Body,Endurance,Resistance Band,Advanced
+Exercise 325,Quadriceps,Obliques,Core,Stability,Kettlebell,Beginner
+Exercise 326,Shoulders,Adductors,Upper Body,Strength,Dumbbell,Intermediate
+Exercise 327,Biceps,Lower Back,Lower Body,Endurance,Barbell,Beginner
+Exercise 328,Hamstrings,Obliques,Lower Body,Endurance,Dumbbell,Intermediate
+Exercise 329,Chest,Neck,Full Body,Strength,Kettlebell,Advanced
+Exercise 330,Chest,Hip Flexors,Lower Body,Flexibility,Bodyweight,Advanced
+Exercise 331,Quadriceps,Obliques,Full Body,Endurance,Barbell,Advanced
+Exercise 332,Shoulders,Lower Back,Full Body,Flexibility,Bodyweight,Beginner
+Exercise 333,Biceps,Abs,Lower Body,Flexibility,Resistance Band,Beginner
+Exercise 334,Shoulders,Lower Back,Full Body,Strength,Kettlebell,Beginner
+Exercise 335,Triceps,Neck,Full Body,Endurance,Dumbbell,Beginner
+Exercise 336,Calves,,Upper Body,Flexibility,Kettlebell,Intermediate
+Exercise 337,Hamstrings,Neck,Upper Body,Endurance,Dumbbell,Advanced
+Exercise 338,Hamstrings,Traps,Upper Body,Flexibility,Resistance Band,Advanced
+Exercise 339,Biceps,Neck,Upper Body,Stability,Kettlebell,Beginner
+Exercise 340,Quadriceps,Traps,Full Body,Flexibility,Machine,Intermediate
+Exercise 341,Triceps,Abs,Core,Flexibility,Machine,Advanced
+Exercise 342,Core,Abs,Core,Strength,Resistance Band,Intermediate
+Exercise 343,Chest,Neck,Core,Stability,Barbell,Intermediate
+Exercise 344,Triceps,Hip Flexors,Full Body,Stability,Kettlebell,Intermediate
+Exercise 345,Hamstrings,Adductors,Full Body,Flexibility,Dumbbell,Intermediate
+Exercise 346,Triceps,Forearms,Full Body,Stability,Kettlebell,Beginner
+Exercise 347,Chest,Hip Flexors,Lower Body,Stability,Bodyweight,Advanced
+Exercise 348,Triceps,Neck,Upper Body,Stability,Resistance Band,Beginner
+Exercise 349,Shoulders,Adductors,Full Body,Stability,Machine,Intermediate
+Exercise 350,Triceps,Abs,Core,Strength,Bodyweight,Beginner
+Exercise 351,Hamstrings,Hip Flexors,Full Body,Endurance,Bodyweight,Beginner
+Exercise 352,Core,,Full Body,Strength,Kettlebell,Advanced
+Exercise 353,Back,Lower Back,Lower Body,Endurance,Barbell,Intermediate
+Exercise 354,Shoulders,Lower Back,Lower Body,Stability,Kettlebell,Advanced
+Exercise 355,Triceps,Abs,Lower Body,Endurance,Kettlebell,Advanced
+Exercise 356,Triceps,Hip Flexors,Lower Body,Strength,Barbell,Beginner
+Exercise 357,Glutes,Abs,Core,Stability,Resistance Band,Beginner
+Exercise 358,Shoulders,Traps,Upper Body,Stability,Dumbbell,Advanced
+Exercise 359,Triceps,Obliques,Full Body,Flexibility,Machine,Intermediate
+Exercise 360,Core,,Core,Stability,Dumbbell,Intermediate
+Exercise 361,Glutes,Forearms,Full Body,Endurance,Bodyweight,Advanced
+Exercise 362,Biceps,Abs,Core,Stability,Machine,Beginner
+Exercise 363,Triceps,Abs,Full Body,Flexibility,Resistance Band,Intermediate
+Exercise 364,Calves,Hip Flexors,Upper Body,Stability,Barbell,Beginner
+Exercise 365,Calves,Forearms,Upper Body,Strength,Kettlebell,Advanced
+Exercise 366,Shoulders,Traps,Lower Body,Stability,Kettlebell,Advanced
+Exercise 367,Shoulders,Abs,Full Body,Flexibility,Dumbbell,Advanced
+Exercise 368,Glutes,Abs,Upper Body,Strength,Bodyweight,Intermediate
+Exercise 369,Back,Hip Flexors,Upper Body,Flexibility,Bodyweight,Intermediate
+Exercise 370,Quadriceps,Hip Flexors,Full Body,Stability,Machine,Intermediate
+Exercise 371,Triceps,Abs,Full Body,Strength,Dumbbell,Advanced
+Exercise 372,Quadriceps,Obliques,Core,Strength,Bodyweight,Advanced
+Exercise 373,Quadriceps,Obliques,Lower Body,Stability,Dumbbell,Beginner
+Exercise 374,Back,Hip Flexors,Lower Body,Stability,Machine,Intermediate
+Exercise 375,Triceps,Obliques,Full Body,Strength,Resistance Band,Advanced
+Exercise 376,Biceps,Forearms,Upper Body,Stability,Barbell,Beginner
+Exercise 377,Chest,,Lower Body,Strength,Kettlebell,Advanced
+Exercise 378,Shoulders,Lats,Full Body,Flexibility,Barbell,Advanced
+Exercise 379,Triceps,Hip Flexors,Lower Body,Endurance,Machine,Intermediate
+Exercise 380,Hamstrings,,Full Body,Flexibility,Machine,Intermediate
+Exercise 381,Glutes,Lats,Core,Flexibility,Bodyweight,Intermediate
+Exercise 382,Glutes,Abs,Upper Body,Endurance,Dumbbell,Beginner
+Exercise 383,Triceps,Obliques,Upper Body,Flexibility,Machine,Advanced
+Exercise 384,Back,Lower Back,Lower Body,Strength,Resistance Band,Intermediate
+Exercise 385,Quadriceps,Traps,Lower Body,Endurance,Resistance Band,Intermediate
+Exercise 386,Quadriceps,Traps,Lower Body,Flexibility,Barbell,Advanced
+Exercise 387,Quadriceps,Lats,Lower Body,Flexibility,Kettlebell,Advanced
+Exercise 388,Quadriceps,Abs,Upper Body,Flexibility,Machine,Advanced
+Exercise 389,Chest,Abs,Full Body,Strength,Kettlebell,Intermediate
+Exercise 390,Chest,Adductors,Lower Body,Flexibility,Bodyweight,Intermediate
+Exercise 391,Glutes,Lats,Core,Flexibility,Barbell,Beginner
+Exercise 392,Biceps,Forearms,Upper Body,Stability,Barbell,Intermediate
+Exercise 393,Back,Lats,Lower Body,Flexibility,Barbell,Intermediate
+Exercise 394,Triceps,Traps,Lower Body,Stability,Resistance Band,Advanced
+Exercise 395,Shoulders,Adductors,Full Body,Endurance,Bodyweight,Intermediate
+Exercise 396,Triceps,Forearms,Core,Flexibility,Machine,Intermediate
+Exercise 397,Glutes,Obliques,Upper Body,Flexibility,Kettlebell,Beginner
+Exercise 398,Shoulders,Lower Back,Full Body,Stability,Bodyweight,Beginner
+Exercise 399,Back,Lower Back,Core,Strength,Bodyweight,Advanced
+Exercise 400,Core,Hip Flexors,Full Body,Endurance,Barbell,Advanced
+Exercise 401,Hamstrings,Abs,Lower Body,Endurance,Bodyweight,Advanced
+Exercise 402,Glutes,Hip Flexors,Lower Body,Strength,Resistance Band,Advanced
+Exercise 403,Hamstrings,Lats,Lower Body,Endurance,Resistance Band,Intermediate
+Exercise 404,Hamstrings,Lower Back,Lower Body,Stability,Kettlebell,Advanced
+Exercise 405,Quadriceps,Lower Back,Upper Body,Flexibility,Barbell,Advanced
+Exercise 406,Quadriceps,Neck,Upper Body,Endurance,Bodyweight,Advanced
+Exercise 407,Back,Neck,Lower Body,Strength,Resistance Band,Beginner
+Exercise 408,Triceps,Lower Back,Lower Body,Strength,Resistance Band,Beginner
+Exercise 409,Shoulders,Hip Flexors,Core,Strength,Machine,Intermediate
+Exercise 410,Core,,Full Body,Flexibility,Resistance Band,Intermediate
+Exercise 411,Triceps,Adductors,Full Body,Flexibility,Barbell,Beginner
+Exercise 412,Hamstrings,Lower Back,Lower Body,Flexibility,Bodyweight,Advanced
+Exercise 413,Back,Lats,Core,Flexibility,Bodyweight,Advanced
+Exercise 414,Biceps,,Upper Body,Endurance,Dumbbell,Intermediate
+Exercise 415,Triceps,Abs,Core,Stability,Barbell,Intermediate
+Exercise 416,Triceps,Lower Back,Upper Body,Strength,Kettlebell,Intermediate
+Exercise 417,Glutes,Abs,Core,Endurance,Kettlebell,Beginner
+Exercise 418,Biceps,Traps,Full Body,Flexibility,Resistance Band,Beginner
+Exercise 419,Quadriceps,,Upper Body,Strength,Kettlebell,Beginner
+Exercise 420,Biceps,Lats,Full Body,Endurance,Dumbbell,Beginner
+Exercise 421,Calves,Forearms,Upper Body,Stability,Machine,Advanced
+Exercise 422,Hamstrings,Obliques,Upper Body,Flexibility,Dumbbell,Advanced
+Exercise 423,Calves,Lats,Upper Body,Endurance,Machine,Intermediate
+Exercise 424,Biceps,Obliques,Full Body,Endurance,Barbell,Advanced
+Exercise 425,Shoulders,Obliques,Full Body,Stability,Bodyweight,Advanced
+Exercise 426,Shoulders,Obliques,Full Body,Endurance,Bodyweight,Advanced
+Exercise 427,Calves,Neck,Core,Stability,Kettlebell,Beginner
+Exercise 428,Biceps,Forearms,Lower Body,Strength,Bodyweight,Advanced
+Exercise 429,Glutes,Lats,Core,Strength,Kettlebell,Beginner
+Exercise 430,Glutes,Obliques,Lower Body,Strength,Barbell,Beginner
+Exercise 431,Shoulders,Abs,Upper Body,Endurance,Bodyweight,Intermediate
+Exercise 432,Back,Neck,Full Body,Strength,Bodyweight,Beginner
+Exercise 433,Hamstrings,Abs,Lower Body,Strength,Bodyweight,Intermediate
+Exercise 434,Hamstrings,,Lower Body,Flexibility,Bodyweight,Advanced
+Exercise 435,Shoulders,Adductors,Core,Endurance,Dumbbell,Beginner
+Exercise 436,Chest,Hip Flexors,Core,Stability,Kettlebell,Intermediate
+Exercise 437,Calves,Obliques,Core,Stability,Kettlebell,Intermediate
+Exercise 438,Triceps,Adductors,Lower Body,Strength,Barbell,Advanced
+Exercise 439,Core,Hip Flexors,Full Body,Flexibility,Machine,Intermediate
+Exercise 440,Glutes,Abs,Upper Body,Stability,Resistance Band,Intermediate
+Exercise 441,Glutes,,Lower Body,Endurance,Kettlebell,Intermediate
+Exercise 442,Chest,Forearms,Core,Flexibility,Kettlebell,Intermediate
+Exercise 443,Glutes,Forearms,Core,Endurance,Resistance Band,Beginner
+Exercise 444,Shoulders,Neck,Core,Stability,Dumbbell,Intermediate
+Exercise 445,Triceps,Forearms,Core,Stability,Kettlebell,Beginner
+Exercise 446,Chest,Lower Back,Full Body,Flexibility,Resistance Band,Advanced
+Exercise 447,Biceps,Adductors,Full Body,Stability,Machine,Intermediate
+Exercise 448,Quadriceps,Forearms,Lower Body,Stability,Bodyweight,Intermediate
+Exercise 449,Biceps,Traps,Core,Flexibility,Dumbbell,Advanced
+Exercise 450,Biceps,Neck,Lower Body,Strength,Dumbbell,Intermediate
+Exercise 451,Core,Neck,Full Body,Endurance,Resistance Band,Beginner
+Exercise 452,Shoulders,Hip Flexors,Full Body,Endurance,Resistance Band,Beginner
+Exercise 453,Calves,Abs,Upper Body,Strength,Machine,Advanced
+Exercise 454,Glutes,Abs,Upper Body,Endurance,Bodyweight,Intermediate
+Exercise 455,Calves,,Core,Stability,Resistance Band,Beginner
+Exercise 456,Glutes,Forearms,Lower Body,Stability,Resistance Band,Advanced
+Exercise 457,Core,Traps,Lower Body,Stability,Bodyweight,Beginner
+Exercise 458,Biceps,Lats,Core,Stability,Machine,Beginner
+Exercise 459,Calves,,Lower Body,Stability,Resistance Band,Advanced
+Exercise 460,Glutes,Lower Back,Lower Body,Strength,Bodyweight,Advanced
+Exercise 461,Glutes,Traps,Core,Endurance,Barbell,Advanced
+Exercise 462,Hamstrings,Forearms,Lower Body,Strength,Kettlebell,Advanced
+Exercise 463,Quadriceps,Hip Flexors,Lower Body,Flexibility,Barbell,Beginner
+Exercise 464,Hamstrings,Obliques,Upper Body,Stability,Kettlebell,Advanced
+Exercise 465,Biceps,Adductors,Full Body,Stability,Machine,Intermediate
+Exercise 466,Back,Obliques,Upper Body,Stability,Kettlebell,Intermediate
+Exercise 467,Glutes,Abs,Upper Body,Stability,Resistance Band,Advanced
+Exercise 468,Glutes,Hip Flexors,Lower Body,Flexibility,Barbell,Beginner
+Exercise 469,Glutes,,Lower Body,Stability,Barbell,Advanced
+Exercise 470,Glutes,Lower Back,Upper Body,Flexibility,Bodyweight,Advanced
+Exercise 471,Quadriceps,Lats,Full Body,Stability,Kettlebell,Advanced
+Exercise 472,Quadriceps,Forearms,Core,Stability,Resistance Band,Beginner
+Exercise 473,Quadriceps,Abs,Full Body,Flexibility,Bodyweight,Intermediate
+Exercise 474,Triceps,Traps,Full Body,Stability,Kettlebell,Advanced
+Exercise 475,Quadriceps,Abs,Full Body,Stability,Kettlebell,Intermediate
+Exercise 476,Triceps,Obliques,Upper Body,Strength,Kettlebell,Advanced
+Exercise 477,Quadriceps,Lats,Upper Body,Endurance,Dumbbell,Beginner
+Exercise 478,Calves,Forearms,Lower Body,Endurance,Machine,Beginner
+Exercise 479,Chest,Forearms,Core,Endurance,Kettlebell,Advanced
+Exercise 480,Core,,Upper Body,Flexibility,Kettlebell,Advanced
+Exercise 481,Back,Traps,Full Body,Flexibility,Bodyweight,Advanced
+Exercise 482,Shoulders,Lower Back,Full Body,Flexibility,Kettlebell,Intermediate
+Exercise 483,Quadriceps,Adductors,Upper Body,Flexibility,Dumbbell,Advanced
+Exercise 484,Glutes,Lower Back,Upper Body,Strength,Machine,Intermediate
+Exercise 485,Shoulders,,Full Body,Flexibility,Barbell,Intermediate
+Exercise 486,Chest,Obliques,Upper Body,Stability,Kettlebell,Intermediate
+Exercise 487,Back,,Lower Body,Endurance,Resistance Band,Intermediate
+Exercise 488,Shoulders,Lower Back,Full Body,Flexibility,Dumbbell,Advanced
+Exercise 489,Triceps,Traps,Lower Body,Stability,Machine,Intermediate
+Exercise 490,Calves,Abs,Lower Body,Stability,Bodyweight,Beginner

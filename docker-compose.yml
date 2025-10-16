@@ -1,23 +1,35 @@
-version: '3.8'
+version: "3.8"
+
 services:
+  # 🧠 Base de datos Neo4j
   neo4j:
     image: neo4j:5.10
-    environment:
-      NEO4J_AUTH: neo4j/test  # cambiar en producción
+    container_name: recovery-coach-neo4j
+    restart: unless-stopped
     ports:
-      - "7474:7474"   # Neo4j Browser
-      - "7687:7687"   # Bolt (conexión backend)
+      - "7474:7474"   # Interfaz web (Neo4j Browser)
+      - "7687:7687"   # Protocolo Bolt (usado por el backend)
+    environment:
+      - NEO4J_AUTH=neo4j/recovery123         # Usuario y contraseña (mín. 8 caracteres)
+      - NEO4J_dbms_security_auth__minimum__password__length=8
     volumes:
-      - neo4j_data:/data
-      - ./neo4j/init.cypher:/docker-entrypoint-initdb.d/init.cypher:ro
+      - ./neo4j/data:/data
+      - ./neo4j/init.cypher:/docker-entrypoint-initdb.d/init.cypher
 
+  # ⚙️ Backend FastAPI
   backend:
-    build: ./backend
-    env_file: ./backend/.env
+    build:
+      context: ./backend
+    container_name: recovery-coach-backend
+    restart: unless-stopped
     ports:
       - "8000:8000"
     depends_on:
       - neo4j
-
-volumes:
-  neo4j_data:
+    environment:
+      NEO4J_URI: bolt://recovery-coach-neo4j:7687
+      NEO4J_USER: neo4j
+      NEO4J_PASS: recovery123
+    volumes:
+      - ./backend:/app
+      - ./datasets:/app/datasets
